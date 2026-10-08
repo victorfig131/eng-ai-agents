@@ -1,1 +1,5 @@
+Assignment 2: What Batch Normalization Buys a Detector
+
+Submission Date: October 8, 2026
+All results and plots have been saved in the notebook, so rerunning the training cells is not necessary to review the assignment.
 Trackio space = https://huggingface.co/spaces/victorfig131/detection-bn-trackio
